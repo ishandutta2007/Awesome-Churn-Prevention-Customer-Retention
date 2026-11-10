@@ -1,6 +1,6 @@
 # Awesome-Churn-Prevention-Customer-Retention
 
-# Top Churn Prevention & Customer Retention Ecosystem
+## Top Churn Prevention & Customer Retention Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Customer Health Scoring, Proactive Engagement & Automated Retention Workflows*  
