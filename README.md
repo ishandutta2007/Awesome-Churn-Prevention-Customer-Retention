@@ -63,9 +63,9 @@ Below is an overview of major commercial customer retention and churn management
 
 ## 💻 Open-Source GitHub Projects
 
-Explore community-driven, self-hosted machine learning models, clickstream journey analytics libraries, and churn prediction web applications. Repositories are sorted in descending order of GitHub star count. 🌟
+Explore community-driven, self-hosted machine learning models, clickstream journey analytics libraries, and churn prediction web applications. Repositories are sorted in descending order of GitHub Stars_Count. 🌟
 
-| Project | Star Badge | Primary Language / Stack | Description |
+| Project | Stars_Badge | Primary Language / Stack | Description |
 | :--- | :--- | :--- | :--- |
 | **[Retentioneering Tools](https://github.com/retentioneering/retentioneering-tools)** | [![Stars](https://img.shields.io/github/stars/retentioneering/retentioneering-tools?style=social&color=white)](https://github.com/retentioneering/retentioneering-tools/stargazers) | Python (Pandas, NetworkX, Scikit-Learn) | Comprehensive clickstream product analytics and customer journey mapping toolkit. Enables behavioral segmentation, conversion funnel visualization, graph-based user flow analysis, Markov chain churn simulation, and retention cohort modeling. |
 | **[WTTE-RNN](https://github.com/ragulpr/wtte-rnn)** | [![Stars](https://img.shields.io/github/stars/ragulpr/wtte-rnn?style=social&color=white)](https://github.com/ragulpr/wtte-rnn/stargazers) | Python (TensorFlow, Keras) | *Weibull Time To Event Recurrent Neural Network*—a machine learning framework specifically engineered for churn prediction and event-timing estimation with censored duration data. |
@@ -101,7 +101,7 @@ We welcome additions from software creators, practitioners, and data scientists!
 
 1. **Fork** this repository.
 2. Create a descriptive feature branch (`git checkout -b add-tool-name`).
-3. Add the project in the appropriate table adhering to the established schema (ensure specific starting pricing and precise trial/free tier limits for SaaS; include social star badge linked to stargazers for open source).
+3. Add the project in the appropriate table adhering to the established schema (ensure specific starting pricing and precise trial/free tier limits for SaaS; include social Stars_Badge linked to stargazers for open source).
 4. Verify all hyperlinks and Markdown formatting.
 5. Submit a **Pull Request** detailing why the tool belongs in this ecosystem.
 
