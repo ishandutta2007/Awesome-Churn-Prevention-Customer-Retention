@@ -1,36 +1,49 @@
-# Awesome Churn Prevention & Customer Retention
+# Awesome Churn Prevention & Customer Retention 🎯
 
-> A curated list of top SaaS platforms, customer success tools, and open-source machine learning frameworks dedicated to customer retention, churn prevention, predictive health scoring, and automated win-back workflows.
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Churn Prevention & Customer Retention Banner" width="100%" />
+</p>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+> 💡 **A curated directory of top SaaS platforms, customer success suites, and open-source machine learning frameworks dedicated to customer retention, churn prevention, predictive health scoring, and automated win-back workflows.**
 
-Understanding customer behavior, predicting churn risks before cancellation occurs, and orchestrating proactive retention campaigns are vital imperatives for recurring-revenue and subscription-first businesses. This resource directory tracks both commercial enterprise SaaS suites and community open-source repositories to help product managers, data scientists, customer success managers (CSMs), and developers build reliable retention engines.
-
----
-
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Commercial Retention Platforms](#saas--commercial-retention-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Key Retention & Churn Metrics](#key-retention--churn-metrics)
-- [How to Contribute](#how-to-contribute)
-- [License & Disclaimer](#license--disclaimer)
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
 ---
 
-## Sector Overview & Market Dynamics
-
-The global customer success and churn prevention software market is estimated at **$2.6B–$2.9B** and is projected to expand at a compound annual growth rate (**CAGR of 15%–22%**) toward **$6B–$8B+** by the early 2030s, fueled by the widespread adoption of SaaS, cloud infrastructure, and recurring billing models.
-
-The sector exhibits **moderate fragmentation with ongoing consolidation**: established CRM giants (Salesforce, Zendesk) and category leaders (Gainsight, Chargebee, Totango/Catalyst) anchor the high-end enterprise segment, while an active, competitive ecosystem of specialized mid-market platforms and micro-SaaS dunning/cancellation-flow tools compete aggressively on self-serve onboarding, AI agent automation, and flexible pricing.
+Understanding customer behavior, predicting churn risks before cancellation occurs, and orchestrating proactive retention campaigns are vital imperatives for recurring-revenue and subscription-first businesses. This resource directory tracks both commercial enterprise SaaS suites and community open-source repositories to help product managers, data scientists, customer success managers (CSMs), and developers build reliable retention engines. 🚀
 
 ---
 
-## SaaS & Commercial Retention Platforms
+## 📑 Table of Contents
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Commercial Retention Platforms](#-saas--commercial-retention-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [📐 Key Retention & Churn Metrics](#-key-retention--churn-metrics)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⭐ Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚖️ License & Disclaimer](#️-license--disclaimer)
 
-Below is an overview of major commercial customer retention and churn management platforms, ranked in descending order of company scale (valuation / funding / revenue size).
+---
+
+## 📊 Sector Overview & Market Dynamics
+
+The global customer success and churn prevention software market is estimated at **$2.6B–$2.9B** and is projected to expand at a compound annual growth rate (**CAGR of 15%–22%**) toward **$6B–$8B+** by the early 2030s, fueled by the widespread adoption of SaaS, cloud infrastructure, and recurring billing models. 📈
+
+The sector exhibits **moderate fragmentation with ongoing consolidation**: established CRM giants (Salesforce, Zendesk) and category leaders (Gainsight, Chargebee, Totango/Catalyst) anchor the high-end enterprise segment, while an active, competitive ecosystem of specialized mid-market platforms and micro-SaaS dunning/cancellation-flow tools compete aggressively on self-serve onboarding, AI agent automation, and flexible pricing. 🌐
+
+---
+
+## 🏢 SaaS & Commercial Retention Platforms
+
+Below is an overview of major commercial customer retention and churn management platforms, ranked in descending order of company scale (valuation / funding / revenue size). 💼
 
 | Product | Company Scale (Valuation / Revenue) | Description | Starting Pricing | Free Tier / Trial Limits |
 | :--- | :--- | :--- | :--- | :--- |
@@ -48,9 +61,9 @@ Below is an overview of major commercial customer retention and churn management
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
-Explore community-driven, self-hosted machine learning models, clickstream journey analytics libraries, and churn prediction web applications. Repositories are sorted in descending order of GitHub star count.
+Explore community-driven, self-hosted machine learning models, clickstream journey analytics libraries, and churn prediction web applications. Repositories are sorted in descending order of GitHub star count. 🌟
 
 | Project | Star Badge | Primary Language / Stack | Description |
 | :--- | :--- | :--- | :--- |
@@ -67,9 +80,9 @@ Explore community-driven, self-hosted machine learning models, clickstream journ
 
 ---
 
-## Key Retention & Churn Metrics
+## 📐 Key Retention & Churn Metrics
 
-When implementing retention infrastructure, tracking standardized benchmarks ensures alignment across teams:
+When implementing retention infrastructure, tracking standardized benchmarks ensures alignment across teams: 📊
 
 * **Customer Churn Rate (Logo Churn)**:
   $$\text{Logo Churn Rate} = \frac{\text{Customers Lost in Period}}{\text{Total Customers at Start of Period}} \times 100$$
@@ -82,9 +95,9 @@ When implementing retention infrastructure, tracking standardized benchmarks ens
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
-We welcome additions from software creators, practitioners, and data scientists! To submit a new tool or open-source library:
+We welcome additions from software creators, practitioners, and data scientists! 💡 To submit a new tool or open-source library:
 
 1. **Fork** this repository.
 2. Create a descriptive feature branch (`git checkout -b add-tool-name`).
@@ -94,7 +107,26 @@ We welcome additions from software creators, practitioners, and data scientists!
 
 ---
 
-## License & Disclaimer
+## ⭐ Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Churn-Prevention-Customer-Retention&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Churn-Prevention-Customer-Retention&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting and supporting this curated resource! 🌟 If you found this repository helpful for your product, engineering, or customer success workflows, please consider:
+
+- ⭐ **Starring** the repository on GitHub
+- 🍴 **Forking** and contributing new tools or playbooks
+- 📢 **Sharing** with colleagues, founders, and retention engineers
+- ☕ **Buying a coffee / sponsoring** the ongoing maintenance on the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)
+
+Your support keeps this collection actively maintained, accurate, and vendor-neutral! 🙌
+
+---
+
+## ⚖️ License & Disclaimer
 
 - Distributed under the [MIT License](LICENSE).
 - **Disclaimer**: This compilation is community-maintained for informational and research purposes. Product names, logos, valuations, and trademarks are the property of their respective owners. Churn management often handles personally identifiable customer data; verify that all production integrations comply with regulatory frameworks (GDPR, CCPA, SOC 2).
